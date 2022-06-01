@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert 
-# Student ID: 10512374
 #!/bin/bash
 
 f=0 # setting the number of non-empty files to be 0
